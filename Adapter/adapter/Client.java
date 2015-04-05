@@ -10,7 +10,6 @@ package adapter;
 import adaptee.Adaptee;
 
 public class Client {
-  private String name;
 
   public static void main(String[] args) {
     Adaptee extComponent = new Adaptee();
