@@ -20,3 +20,11 @@ Decorator
 **Adds** functionalities to an object dinamically.
 
 **Aggiunge** funzionalità ad un oggetto in modo dinamico.
+
+Facade
+------
+
+Provides a **single** and **simple** interface to access a complex system.
+
+Fornisce un'interfaccia **unica** e **semplice** per l'accesso ad un sistema
+complesso.
