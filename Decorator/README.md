@@ -5,8 +5,6 @@ If you want to execute the trial program, type:
 
     bash play.sh
 
-Whereas yourname is any string you want to give as an input.
-
 The expected outcome of this program is:
 
 > The garden is green and awesome
