@@ -28,3 +28,11 @@ Provides a **single** and **simple** interface to access a complex system.
 
 Fornisce un'interfaccia **unica** e **semplice** per l'accesso ad un sistema
 complesso.
+
+Proxy
+-----
+
+Controls the access to an object placing a **surrogate** between it and the
+client.
+
+Regola l'accesso ad un oggetto attraverso un **surrogato** di questo.
