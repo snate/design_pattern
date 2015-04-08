@@ -36,3 +36,10 @@ Controls the access to an object placing a **surrogate** between it and the
 client.
 
 Regola l'accesso ad un oggetto attraverso un **surrogato** di questo.
+
+Singleton
+---------
+
+Guarantees that there will be, **at most**, one istance of a given class.
+
+Assicurarsi che esista **al massimo** un'istanza di una certa classe.
