@@ -43,3 +43,8 @@ Singleton
 Guarantees that there will be, **at most**, one istance of a given class.
 
 Assicurarsi che esista **al massimo** un'istanza di una certa classe.
+
+
+* * *
+
+Credits to: http://www.slideshare.net/RiccardoCardin
