@@ -2,8 +2,8 @@
   * Sebastiano Valle - 23/04/2015
   * This is the class which represents a GoF's ``ConcreteBuilder" class.
   *
-  * A Nexus5Builder contains all the operations that are required to build a
-  * Nexus5.
+  * An IPhone5Builder contains all the operations that are required to build a
+  * iPhone5.
 */
 package cellphone;
 
