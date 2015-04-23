@@ -14,6 +14,13 @@ Adapter
 
 **Converte** l'interfaccia di una classe in un'altra.
 
+Builder
+-------
+
+Encapsulates the **construction** process of a product.
+
+Incapsula il processo di **costruzione** di un certo prodotto.
+
 Decorator
 ---------
 
