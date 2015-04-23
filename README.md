@@ -7,6 +7,14 @@ README.md in the pattern folder._
 _Per avviare i vari programmi di prova, leggere le istruzioni in ogni cartella
 nel file README.md_
 
+Abstract Factory
+----------------
+
+Provides an interface to create groups of objects belonging to the same
+**family**.
+
+Fornisce un'interfaccia per la creazione di oggetto di una stessa **famiglia**.
+
 Adapter
 -------
 
