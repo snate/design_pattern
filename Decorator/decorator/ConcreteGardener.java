@@ -8,7 +8,7 @@ package decorator;
 
 class ConcreteGardener extends AGardenDecorator {
     private static String output = "I'm the gardener and I cut every hedge" +
-      "every day";
+      " every day";
 
   public ConcreteGardener(IGarden ref) {
     super(ref);

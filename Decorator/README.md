@@ -12,7 +12,7 @@ The expected outcome of this program is:
 > I'm the gnome and I ensure that every plant is growing healthy and
   flourishing
 
-> I'm the gardener and I cut every hedgeevery day
+> I'm the gardener and I cut every hedge every day
 
 You can always add functionalities and make your own tests:
 
