@@ -53,6 +53,13 @@ Provides a **single** and **simple** interface to access a complex system.
 Fornisce un'interfaccia **unica** e **semplice** per l'accesso ad un sistema
 complesso.
 
+Iterator
+------
+
+Is a mean by which you can **navigate** an aggregate.
+
+È un mezzo con il quale si può **traversare** un aggregato.
+
 Proxy
 -----
 
