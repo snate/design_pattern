@@ -60,6 +60,13 @@ Is a mean by which you can **navigate** an aggregate.
 
 È un mezzo con il quale si può **traversare** un aggregato.
 
+Observer
+--------
+
+Sets up a **publish-subscribe** architecture.
+
+Definisce una dipendenza tra **osservato** e **osservatori**.
+
 Proxy
 -----
 
