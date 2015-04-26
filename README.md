@@ -32,7 +32,7 @@ Incapsula il processo di **costruzione** di un certo prodotto.
 Command
 -------
 
-Encapsulates the link between user requests and expected **beahviour** in a
+Encapsulates the link between user requests and expected **behaviour** in a
 class hierarchy.
 
 Incapsula la relazione tra eventi utente e **comportamenti** attesi in una
