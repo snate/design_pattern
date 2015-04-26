@@ -82,6 +82,16 @@ Guarantees that there will be, **at most**, one istance of a given class.
 
 Assicurarsi che esista **al massimo** un'istanza di una certa classe.
 
+Template Method
+---------------
+
+Set up the **skeleton** of an algorithm, allowing to customize or specialize
+some operations (either primitive or hooks).
+
+Imposta uno **scheletro** per un algoritmo, permettendo alle sottoclassi di
+ridefinire solamente alcune parti dell'algoritmo e lasciando immutate le parti
+fattorizzabili.
+
 
 * * *
 
