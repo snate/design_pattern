@@ -54,7 +54,7 @@ Fornisce un'interfaccia **unica** e **semplice** per l'accesso ad un sistema
 complesso.
 
 Iterator
-------
+--------
 
 Is a mean by which you can **navigate** an aggregate.
 
