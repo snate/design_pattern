@@ -82,6 +82,13 @@ Guarantees that there will be, **at most**, one istance of a given class.
 
 Assicurarsi che esista **al massimo** un'istanza di una certa classe.
 
+Strategy
+--------
+
+Decouples an **algorithm** from the classes that uses it.
+
+Disaccoppia un **algoritmo** dalle classi che lo usano.
+
 Template Method
 ---------------
 
